@@ -1,2 +1,3 @@
 # gitclass
-test project for git
+test for exercise 3
+
